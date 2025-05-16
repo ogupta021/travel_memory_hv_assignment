@@ -1,5 +1,5 @@
-# travel_memory_hv_assignment
-A mern application for managing travel journals, architected with the MERN stack (MongoDB, Express.js, React, Node.js), deployed on AWS EC2 with Nginx for reverse proxying, integrated with MongoDB Atlas for persistence, and designed for high availability via AWS Application Load Balancer and Cloudflare DNS management.
+# Travel-Memory-Application-Deployment
+A distributed, full-stack web application for managing travel journals, architected with the MERN stack (MongoDB, Express.js, React, Node.js), deployed on AWS EC2 with Nginx for reverse proxying, integrated with MongoDB Atlas for persistence, and designed for high availability via AWS Application Load Balancer and Cloudflare DNS management.
 
 ## Architecture Overview
 - API Endpoints: CRUD operations for travel memory entities (/trip), implemented with Express routes and Mongoose ODM.
@@ -274,4 +274,24 @@ sudo npm start
 - Database: Linked to MongoDB Atlas for persistence.
 - Load Balancing: Enabled with multi-AZ coverage.  
 - Domain: Fully integrated via Cloudflare.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
