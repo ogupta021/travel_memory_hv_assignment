@@ -53,9 +53,10 @@ A distributed, full-stack web application for managing travel journals, architec
 ## 🧱 Backend Deployment
 
 **EC2 Instance (Backend)**  
-- Public IP: `13.235.68.5`  
-- Private IP: `172.31.0.49`
-<img src="https://github.com/user-attachments/assets/ebf539d8-f12e-49c3-8740-f94462120082" width="600">
+- Public IP: `15.207.88.122`  
+- Private IP: `172.31.0.155`
+  ![image](https://github.com/user-attachments/assets/e84a2746-b23e-4b4d-befe-841f23320cff)
+
 
 ### Deployement Instructions
 
